@@ -76,7 +76,7 @@ export const navItems = [
       des: "Developed a system to digitize parcel management process in campus.",
       img: "./eziparcel.jpg",
       iconLists: ["./html.svg", "./css.svg", "./javascript.svg", "./flutter.svg", "./dart.svg", "./firebase.svg"],
-      link: "https://github.com./KamalHazriq./UKM-EziParcel-Web",
+      link: "https://github.com/KamalHazriq/UKM-EziParcel-Web",
     },
     {
       id: 2,
@@ -84,7 +84,7 @@ export const navItems = [
       des: "Created a product catalog website for Disney products, learning the basis of CRUD and web development.",
       img: "./disneyweb.jpg",
       iconLists: ["./html.svg", "./css.svg", "./javascript.svg", "./php.svg", "./mysql.svg","./bootstrap.svg","./codeigniter.svg"],
-      link: "http://lrgs.ftsm.ukm.my./users./a189646./enhancement./login.php",
+      link: "http://lrgs.ftsm.ukm.my/users/a189646/enhancement/login.php",
     },
     {
       id: 3,
@@ -92,7 +92,7 @@ export const navItems = [
       des: "Website that showcases web programming modules I learned from web programming course in university.",
       img: "./webprogramming.png",
       iconLists: ["./html.svg", "./css.svg", "./javascript.svg", "./php.svg", "./mysql.svg","./bootstrap.svg","./codeigniter.svg"],
-      link: "http://lrgs.ftsm.ukm.my./users./a189646./",
+      link: "http://lrgs.ftsm.ukm.my/users/a189646/",
     },
     {
       id: 4,
@@ -100,15 +100,15 @@ export const navItems = [
       des: "Mobile App Development Group Project that developed a teashop mobile app.",
       img: "./tickletea.jpg",
       iconLists: ["./java.svg", "./android.svg", "./figma.svg"],
-      link: "https://youtu.be./p4FTguCQiO8",
+      link: "https://youtu.be/p4FTguCQiO8",
     },
     {
       id: 5,
       title: "Human Computer Interaction Project: Digi World",
-      des: "Group Project to apply good user interface guidelines, principles, and theories.Designed and prototyped the UI./UX of a game application using Figma.",
+      des: "Group Project to apply good user interface guidelines, principles, and theories.Designed and prototyped the UI/UX of a game application using Figma.",
       img: "./digiworld.jpg",
       iconLists: ["./figma.svg"],
-      link: "https://www.figma.com./design./wLeEGzksNTAz37oMrXwXnA./DIGI-WORLD?node-id=0-1&t=6R7BtZ6cAKlqRrLO-1",
+      link: "https://www.figma.com/design/wLeEGzksNTAz37oMrXwXnA/DIGI-WORLD?node-id=0-1&t=6R7BtZ6cAKlqRrLO-1",
     },
   ];
   
@@ -213,7 +213,7 @@ export const navItems = [
     {
       id: '1',
       img: "./git.svg",
-      link: "https:././github.com./KamalHazriq", 
+      link: "https://github.com/KamalHazriq", 
     },
     {
       id: '2',
@@ -223,6 +223,6 @@ export const navItems = [
     {
       id: '3',
       img: "./link.svg",
-      link: "https:././www.linkedin.com./in./kamalhazriq./", // Replace with your LinkedIn profile link
+      link: "https://www.linkedin.com/in/kamalhazriq/", // Replace with your LinkedIn profile link
     },
   ];
