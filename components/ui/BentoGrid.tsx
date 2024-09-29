@@ -75,7 +75,7 @@ export const BentoGridItem = ({
           {img && (
             <img
             src={img}
-            alt={title}
+            alt={typeof title === 'string' ? title : 'Default Alt Text'} // Ensure title is a string
             className={cn(imgClassName, 'object-cover,object-center')}
             />
           )}
