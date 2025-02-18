@@ -42,7 +42,7 @@ const Hero = () => {
             Aspiring Software Developer from Gombak, Selangor.
           </p>
 
-          <a href="https://drive.google.com/file/d/1Y2fL113sQ7k4Q0WWsfmI0Z8biQWt0W59/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+          <a href="https://drive.google.com/file/d/1RlIUex7IlAybo3MszIg1whNdcOUQVlLL/view?usp=sharing" target="_blank" rel="noopener noreferrer">
             <MagicButton
               title="See my Resume"
               icon={<FaLocationArrow />}
