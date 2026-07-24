@@ -25,7 +25,7 @@ const Footer = () => {
                     achieve your goals.
                 </p>
 
-                <a href="mailto:kamalhazriq@gmail.com" target="blank">
+                <a href="mailto:kamalhazriq.work@gmail.com" target="blank">
                     <MagicButton
                         title="Let's get in touch"
                         icon={<FaLocationArrow />}
@@ -35,7 +35,7 @@ const Footer = () => {
             </div>
             <div className="flex mt-16 md:flex-row flex-col justify-between items-center">
                 <p className="md:text-base text-sm md:font-normal font-light">
-                    Copyright © 2025 Kamal Hazriq
+                    Copyright © 2026 Kamal Hazriq
                 </p>
 
                 <div className="flex items-center md:gap-3 gap-6">

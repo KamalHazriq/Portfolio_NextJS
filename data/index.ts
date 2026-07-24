@@ -218,7 +218,7 @@ export const navItems = [
     {
       id: '2',
       img: "./email.svg",
-      link: "mailto:kamalhazriq@gmail.com", // Replace with your email
+      link: "mailto:kamalhazriq.work@gmail.com", // Replace with your email
     },
     {
       id: '3',

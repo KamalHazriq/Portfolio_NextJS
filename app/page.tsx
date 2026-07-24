@@ -6,6 +6,7 @@ import { FloatingNav } from "@/components/ui/FloatingNavbar";
 import { navItems } from "@/data";
 import { FaHome } from "react-icons/fa";
 
+
 export default function Home() {
   return (
     <main className="relative bg-black-100 flex justify-center items-center flex-col mx-auto sm:px10 px-5 overflow-clip">
